@@ -1,0 +1,561 @@
+,hotel_name,hotel_prices,hotel_rat,hotel_loc
+0,The Regale by Tunga,"INR2,063",4.8,Mumbai
+1,Trident Bandra Kurla,"INR4,500",4.8,Mumbai
+2,"ITC Maratha, A Luxury Collection Hotel","INR3,900",4.8,Mumbai
+3,Trident Nariman Point,"INR6,250",4.8,Mumbai
+4,Taj Lands End,"INR5,250",4.8,Mumbai
+5,"Ramada Plaza By Wyndham Palm Grove, Juhu, Mumbai","INR3,562",4.8,Mumbai
+6,Taj Mahal Tower,"INR6,500",4.8,Mumbai
+7,The Fern Goregaon,"INR3,729",4.8,Mumbai
+8,OYO Flagship 17200 Hotel Neelkamal Chembur,"INR1,573",4.8,Mumbai
+9,OYO 69852 Hotel Juhu Star,"INR2,096",4.8,Mumbai
+10,Taj Santacruz,"INR5,000",4.8,Mumbai
+11,JW Marriott Mumbai Juhu,"INR6,500",4.8,Mumbai
+12,Four Seasons Hotel Mumbai,"INR4,700",4.8,Mumbai
+13,"President,Mumbai IHCL SeleQtions","INR4,000",4.8,Mumbai
+14,OYO 22535 Hotel Orbit Inn,"INR2,242",4.8,Mumbai
+15,ITC Grand Central,"INR3,500",4.8,Mumbai
+16,The Leela Mumbai,"INR4,319",4.8,Mumbai
+17,"Lemon Tree Premier, Mumbai International Airport, Mumbai","INR2,456",4.8,Mumbai
+18,JW Marriott Mumbai Sahar,"INR5,250",4.8,Mumbai
+19,OYO 9849 Hotel Divine Residency,"INR2,647",4.8,Mumbai
+20,Radisson Mumbai Andheri MIDC,"INR2,943",4.8,Mumbai
+21,Sahara Star,"INR5,550",4.8,Mumbai
+22,Ginger Mumbai Andheri,"INR2,433",4.8,Mumbai
+23,Meluha - The Fern,"INR3,844",4.8,Mumbai
+24,Hilton Mumbai International Airport,"INR4,016",4.8,Mumbai
+25,The St. Regis Mumbai,"INR7,000",4.8,Mumbai
+26,Kohinoor Continental,"INR2,482",4.8,Mumbai
+27,Radisson Mumbai Goregaon,"INR4,282",4.8,Mumbai
+28,The Resort Mumbai,"INR3,512",4.8,Mumbai
+29,Capital O 29704 Regal International,"INR1,350",4.8,Mumbai
+30,Villa Eliza,"INR7,990",4.8,Mumbai
+31,Ramee Techome,"INR3,813",4.8,Mumbai
+32,Indie Stays,INR816,4.8,Mumbai
+33,Sofitel Mumbai BKC- Luxury Brand by Accor,"INR4,004",4.8,Mumbai
+34,Hotel Metropole Inn,"INR1,815",4.8,Mumbai
+35,The Taj Mahal Palace,"INR14,000",4.8,Mumbai
+36,Aflon hotel,"INR1,162",4.8,Mumbai
+37,Courtyard by Marriott Mumbai International Airport,"INR3,700",4.8,Mumbai
+38,Theory9 Premium Serviced Apartments,"INR4,949",4.8,Mumbai
+39,The Oberoi,"INR9,750",4.8,Mumbai
+40,Ashok Deluxe Apartments,"INR2,538",4.8,Mumbai
+41,Ramee Guestline Hotel - Dadar,"INR3,140",4.8,Mumbai
+42,goStops Mumbai,INR345,4.8,Mumbai
+43,Sun-N-Sand,"INR4,982",4.8,Mumbai
+44,Hotel Oriental Aster Mumbai Airport,"INR2,019",4.8,Mumbai
+45,Renaissance Mumbai Convention Centre Hotel,"INR4,500",4.8,Mumbai
+46,Radisson Blu Mumbai International Airport,"INR2,706",4.8,Mumbai
+47,Hyatt Regency Mumbai,"INR3,825",4.8,Mumbai
+48,The Ambassador Mumbai,"INR4,467",4.8,Mumbai
+49,Rodas - An Ecotel Hotel,"INR3,075",4.8,Mumbai
+50,Hotel Bawa Continental,"INR2,000",4.8,Mumbai
+51,The Westin Mumbai Garden City,"INR6,000",4.8,Mumbai
+52,Hotel Leafio,"INR2,161",4.8,Mumbai
+53,Hotel Sai Residency,"INR1,504",4.8,Mumbai
+54,Hotel Magnet,INR810,4.8,Mumbai
+55,Novotel Mumbai Juhu Beach,"INR4,928",4.8,Mumbai
+56,Qubestay Airport Capsule Hostel,INR376,4.8,Mumbai
+57,The Sahil Hotel,"INR3,127",4.8,Mumbai
+58,QubeStay TownHostel,INR366,4.8,Mumbai
+59,Hotel Marine Plaza,"INR4,500",4.8,Mumbai
+60,Airport Dormitory ( Close to International Airport),INR194,4.8,Mumbai
+61,THE ROOMS OF STATUS,INR940,4.8,Mumbai
+62,Prime Grand Hotel,"INR1,282",4.8,Mumbai
+63,GCC Hotel and Club,"INR3,384",4.8,Mumbai
+64,Vishal Hall,"INR1,281",4.8,Mumbai
+65,Hotel Jyoti Dwelling,"INR1,645",4.8,Mumbai
+66,The Beatle,"INR3,140",4.8,Mumbai
+67,Hotel Kumkum,"INR1,615",4.8,Mumbai
+68,THE MYRIAD Business Hotel,"INR2,220",4.8,Mumbai
+69,The Orchid,"INR3,499",4.8,Mumbai
+70,KRISHNA PALACE HOTEL,"INR1,892",4.8,Mumbai
+71,The Lalit Mumbai,"INR5,500",4.8,Mumbai
+72,GCC Sonal Apartments.,"INR3,008",4.8,Mumbai
+73,Lakeside Chalet Marriott Executive Apartments,"INR6,800",4.8,Mumbai
+74,Payyade Residency Private Limited,"INR2,106",4.8,Mumbai
+75,GCC North Side Hotel,"INR2,930",4.8,Mumbai
+76,Rudra Shelter Business hotel,"INR1,547",4.8,Mumbai
+77,Grand Hyatt Mumbai,"INR5,313",4.8,Mumbai
+78,FARM HOUSE,"INR2,820",4.8,Mumbai
+79,namastey mumbai backpackers,INR658,4.8,Mumbai
+80,Ramee Guestline Hotel Juhu,"INR2,453",4.8,Mumbai
+81,Intercontinental Marine Drive,"INR8,075",4.8,Mumbai
+82,HOTEL LEAFIO MARIGOLD,"INR2,256",4.8,Mumbai
+83,Hotel Annex Executive,"INR1,256",4.8,Mumbai
+84,Zostel Mumbai,INR499,4.8,Mumbai
+85,Urbanpod Hotel,"INR1,104",4.8,Mumbai
+86,Dragonfly Hotel - The Art Hotel,"INR4,784",4.8,Mumbai
+87,The International by Tunga,"INR1,974",4.8,Mumbai
+88,Hotel Manama,"INR1,582",4.8,Mumbai
+89,Hotel Sai Palace Grand,"INR3,525",4.8,Mumbai
+90,Holiday Inn Mumbai International Airport,"INR3,500",4.8,Mumbai
+91,Mumbai Staytion Dorm - A Backpackers Hostel,INR519,4.8,Mumbai
+92,Backpackers Villa Mumbai,INR504,4.8,Mumbai
+93,Dragonfly Apartment Emerald,"INR1,384",4.8,Mumbai
+94,Anantha Executive Suites,"INR3,287",4.8,Mumbai
+95,VITS Mumbai International Airport T2,"INR2,498",4.8,Mumbai
+96,Isec Apartment,"INR3,060",4.8,Mumbai
+97,Oriental Residency,"INR2,312",4.8,Mumbai
+98,Goldfinch Hotel,"INR2,871",4.8,Mumbai
+99,Hotel Swastick,"INR2,445",4.8,Mumbai
+100,Dhuri Resort,"INR1,880",4.8,Mumbai
+101,HOTEL KOHINOOR PARK,"INR2,194",4.8,Mumbai
+102,Hotel Artus Inn,"INR1,196",4.8,Mumbai
+103,HOTEL MOGUL PALACE,INR800,4.8,Mumbai
+104,Art Hotel,INR798,4.8,Mumbai
+105,Krishna Palace Hotel,"INR10,471",4.8,Mumbai
+106,The Retreat Hotel & Convention Centre,"INR5,264",4.8,Mumbai
+107,Sarovar Grand Hometel,"INR3,190",4.8,Mumbai
+108,The Paradise by Tunga,"INR1,963",4.8,Mumbai
+109,Hotel Rama Krishna,"INR1,739",4.8,Mumbai
+110,Hotel Regency,"INR1,269",4.8,Mumbai
+111,Hotel Bawa Regency,"INR2,520",4.8,Mumbai
+112,Hotel Beacon T2,"INR2,163",4.8,Mumbai
+113,Hotel Park View,"INR1,519",4.8,Mumbai
+114,The Fern Residency,"INR3,652",4.8,Mumbai
+115,Asalpha Dormitory,INR176,4.8,Mumbai
+116,Homstel Dormitory,INR270,4.5,Mumbai
+117,Hotel Hiltop,"INR3,500",4.5,Mumbai
+118,Fariyas Hotel,"INR4,199",4.5,Mumbai
+119,Hotel Ocean Suites,"INR1,211",4.5,Mumbai
+120,Hotel Onn Shelter Inn,"INR1,711",4.5,Mumbai
+121,Ibis Mumbai Airport - An AccorHotels Brand,"INR1,662",4.5,Mumbai
+122,Hotel Galaxy's Vaibhav Vasai,INR870,4.5,Mumbai
+123,Hotel Park Inn,"INR1,504",4.5,Mumbai
+124,Hotel Karl Residency,"INR1,880",4.5,Mumbai
+125,Hotel Harbour View,"INR2,538",4.5,Mumbai
+126,Hotel Orient Regency,"INR2,690",4.5,Mumbai
+127,Hotel Kemps Corner,"INR1,833",4.5,Mumbai
+128,West End Hotel,"INR3,311",4.5,Mumbai
+129,Blossom Dormitory ( For Male and Female),INR203,4.5,Mumbai
+130,The Grandeur Boutique Hotel,"INR4,271",4.5,Mumbai
+131,Hotel Elphinstone Annex,"INR2,350",4.5,Mumbai
+132,T24 Residency,"INR2,151",4.5,Mumbai
+133,HOTEL HORIZON,"INR1,154",4.5,Mumbai
+134,Royal Garden Resort (FREE WATER PARK ENTRY),"INR2,691",4.5,Mumbai
+135,The Cottage - Luxury Corporate Hotel,"INR1,537",4.5,Mumbai
+136,Colaba Suites,"INR1,471",4.5,Mumbai
+137,Hotel Suvi Palace,"INR2,362",4.5,Mumbai
+138,Cohostel,INR649,4.5,Mumbai
+139,AL Shifa Residency,"INR1,015",4.5,Mumbai
+140,Hotel Plaza - Chembur,"INR2,435",4.5,Mumbai
+141,"Ample Dorms, Airport - A Backpackers Hostel",INR404,4.5,Mumbai
+142,Waterstones Hotel,"INR4,020",4.5,Mumbai
+143,Ramee Guestline Khar,"INR2,004",4.5,Mumbai
+144,"Ginger Mumbai, Andheri (MIDC)","INR1,466",4.5,Mumbai
+145,Hotel Lucky Bandra,"INR1,692",4.5,Mumbai
+146,Nest Dormitory & Shared Accomodation,INR658,4.5,Mumbai
+147,Hotel Avirahi,"INR1,880",4.5,Mumbai
+148,Mina International,"INR1,825",4.5,Mumbai
+149,A1 Hotel,"INR2,050",4.5,Mumbai
+150,HappiNest - The Backpacker's Hostel,INR562,4.5,Mumbai
+151,Lalco Residency,"INR4,400",4.5,Mumbai
+152,Hotel Mid town,"INR1,765",4.5,Mumbai
+153,OYO 22683 Hotel Park Palace,INR830,4.5,Mumbai
+154,Hotel Voxton,"INR1,705",4.5,Mumbai
+155,Hotel West Blue,"INR1,711",4.5,Mumbai
+156,Hostel Mantra,INR592,4.5,Mumbai
+157,Hotel Gordon House,"INR3,500",4.5,Mumbai
+158,Hotel Fortune,"INR1,672",4.5,Mumbai
+159,The Shalimar Hotel,"INR3,619",4.5,Mumbai
+160,Sai Palace Hotel,"INR4,700",4.5,Mumbai
+161,Welcome Guest House,INR320,4.5,Mumbai
+162,Mumbai Darbar -A backpacker hostel,INR705,4.5,Mumbai
+163,Hotel Metro Palace,"INR1,795",4.5,Mumbai
+164,The Park Mumbai,"INR3,807",4.5,Mumbai
+165,Hotel Suba Palace,"INR2,600",4.5,Mumbai
+166,The Emerald Hotel & Service Apartments,"INR2,479",4,Mumbai
+167,Hotel Alfa Heritage,"INR1,080",4,Mumbai
+168,Suba Galaxy,"INR2,438",4,Mumbai
+169,iStay Hotels Andheri MIDC,"INR1,791",4,Mumbai
+170,Gagal Home Service Apartment,"INR2,538",4,Mumbai
+171,Hotel Sea N Rock Pure Veg,"INR3,331",4,Mumbai
+172,HOTEL SHEETAL RESIDENCY,"INR4,230",4,Mumbai
+173,Hotel Kohinoor Elite,"INR3,075",4,Mumbai
+174,Golden Toff Resort,"INR3,768",4,Mumbai
+175,Hotel Suncity Residency,"INR1,749",4,Mumbai
+176,Rajhans Hotel,"INR1,676",4,Mumbai
+177,HOTEL ROYAL CASTLE,"INR2,288",4,Mumbai
+178,Regent Hotel,"INR2,538",4,Mumbai
+179,Seven Hills Dormitory,INR300,4,Mumbai
+180,HOTEL AUREOLE,"INR2,499",4,Mumbai
+181,The Ontime Hotel,"INR2,033",4,Mumbai
+182,Hotel Nest Inn,INR940,4,Mumbai
+183,Oritel Service Apartments,"INR3,131",4,Mumbai
+184,Niranta Transit Hotel Mumbai Airport,"INR4,575",4,Mumbai
+185,Hotel Parle International,"INR2,213",4,Mumbai
+186,Hotel Diplomat,"INR2,961",4,Mumbai
+187,Hotel Accord,"INR1,579",4,Mumbai
+188,Hotel Ashray International (Sion),"INR2,142",4,Mumbai
+189,Gobinddham ( Hindu spiritual living ) pure veg,"INR3,102",4,Mumbai
+190,Hotel Linkway,"INR2,700",4,Mumbai
+191,Grace Galaxy,"INR2,105",4,Mumbai
+192,Z Luxury Residences,"INR7,990",4,Mumbai
+193,Hotel Peninsula Grand,"INR2,792",4,Mumbai
+194,Hotel Rangsharda,"INR3,760",4,Mumbai
+195,Tourister Hotel,"INR1,534",4,Mumbai
+196,Hotel Minerva Residency,"INR1,654",4,Mumbai
+197,OYO Townhouse 046 Khar West Station,"INR1,687",4,Mumbai
+198,Hotel Regal Palace,"INR2,515",4,Mumbai
+199,Hotel TipTop - Grant Road,INR432,4,Mumbai
+200,Zara Dormitory,INR225,4,Mumbai
+201,vishnu executive room,"INR1,460",4,Mumbai
+202,Tourist Resort,"INR1,794",4,Mumbai
+203,Hotel Aksa,"INR1,167",4,Mumbai
+204,Sampoorna Hotels Pvt Ltd,"INR2,648",4,Mumbai
+205,Capital O 22120 Hotel Universal Garden,"INR2,261",4,Mumbai
+206,OYO 10016 Hotel Golden Inn,"INR1,218",4,Mumbai
+207,"The Fountain Inn, Fort","INR1,278",4,Mumbai
+208,Comfort Inn Heritage,"INR2,679",4,Mumbai
+209,OYO 22039 Hotel Bkc Grand,"INR1,440",4,Mumbai
+210,Hotel Elite 59,INR997,4,Mumbai
+211,Collection O 30053 Shakti Sagar Juhu,"INR2,538",4,Mumbai
+212,Embassy Suites,"INR1,245",4,Mumbai
+213,Hotel Alfa International,"INR1,379",4,Mumbai
+214,Hotel Orritel West,"INR3,628",4,Mumbai
+215,Hotel Royal Onix,INR786,4,Mumbai
+216,Avion Hotel,"INR2,004",4,Mumbai
+217,Hotel Victoria,"INR1,383",4,Mumbai
+218,Sea Green South Hotel,"INR3,759",4,Mumbai
+219,Kurla Dormitory,INR282,4,Mumbai
+220,Hotel Lotus Grand Andheri,"INR1,031",4,Mumbai
+221,OYO 43474 Hotel Blue Sky,"INR1,536",4,Mumbai
+222,Hotel Cosmo,INR694,4,Mumbai
+223,Royal Hometel Suites,"INR3,008",4,Mumbai
+224,Hotel Pride,"INR1,777",4,Mumbai
+225,Powai Dormitory,INR470,4,Mumbai
+226,Hotel Planet Plaza,INR808,4,Mumbai
+227,Privilege Inn,"INR2,754",4,Mumbai
+228,Capital O 12043 Hotel Konak,"INR1,229",4,Mumbai
+229,The Classique Club,"INR4,610",4,Mumbai
+230,OYO 6371 Hotel Abrol,"INR1,047",4,Mumbai
+231,Hotel Axis International,"INR1,209",4,Mumbai
+232,The Empresa Hotel,"INR4,136",4,Mumbai
+233,Traveller's Inn Hotel,"INR1,374",4,Mumbai
+234,Hotel Airport International,"INR1,820",4,Mumbai
+235,Hotel Adlon International,"INR1,660",4,Mumbai
+236,La Hotel Metro,"INR2,726",4,Mumbai
+237,OYO 16077 Panchvati Residency,"INR1,640",4,Mumbai
+238,Keys Select Hotel Nestor,"INR1,495",4,Mumbai
+239,Capital O 71678 Hotel Sea Woods,"INR1,622",4,Mumbai
+240,Hotel Liwa International,INR799,4,Mumbai
+241,Hotel Grand Residency,"INR1,666",4,Mumbai
+242,AG Dormitory,INR564,4,Mumbai
+243,Hotel Lucky Goregaon,"INR1,384",4,Mumbai
+244,HOTEL A. K. INTERNATIONAL,"INR1,984",4,Mumbai
+245,sunny's world,INR473,4,Mumbai
+246,Hotel Karan Palace,"INR2,136",4,Mumbai
+247,Hotel Kwality inn,"INR1,542",4,Mumbai
+248,Hotel Peninsula Redpine,"INR3,230",4,Mumbai
+249,Maxx Value Hospitality,"INR2,243",4,Mumbai
+250,Hotel Bawa International,"INR2,205",4,Mumbai
+251,Hotel Planet Residency,"INR1,845",4,Mumbai
+252,Niranta Airport Transit Hotel & Lounge Terminal 2 Arrivals/Landside,"INR4,575",4,Mumbai
+253,The Roa Hotel,"INR2,562",4,Mumbai
+254,Strand Hotel,"INR2,423",4,Mumbai
+255,Hotel Oasis,"INR1,380",4,Mumbai
+256,Bawa Suites,"INR2,520",4,Mumbai
+257,Hotel Maharana Inn Chembur,"INR2,179",4,Mumbai
+258,Hotel Galaxy Avenue (Wi-Fi Complimentary),"INR1,709",4,Mumbai
+259,Hotel Bindra's Supremacy,"INR2,010",4,Mumbai
+260,Atlas Grand,"INR1,944",4,Mumbai
+261,Milan International,"INR1,203",4,Mumbai
+262,Hotel Shubhangan,"INR2,153",4,Mumbai
+263,Aditya Residency,"INR2,136",4,Mumbai
+264,Hotel Suncity Apollo,"INR2,585",4,Mumbai
+265,HOTEL BOMBAY INTERNATIONAL,"INR1,428",4,Mumbai
+266,Marvey Residency,"INR2,726",4,Mumbai
+267,Capital O 29143 Embassy Suites,"INR1,273",4,Mumbai
+268,Hotel Amigo,"INR2,994",4,Mumbai
+269,Carlton Hotel - Colaba,INR795,4,Mumbai
+270,Levels Resort,"INR3,189",4,Mumbai
+271,OYO 15717 RK Residency,"INR1,299",4,Mumbai
+272,Milan Guest House,INR856,4,Mumbai
+273,Hotel Royal Hills,"INR2,624",4,Mumbai
+274,Aman Hotel,INR579,4,Mumbai
+275,Backpacker Panda Colaba,INR564,4,Mumbai
+276,Hotel Better Home International,"INR1,328",4,Mumbai
+277,Hotel Rosewood,"INR2,256",4,Mumbai
+278,Kohinoor ATC,"INR3,290",4,Mumbai
+279,Gagal Home Business Suite,"INR2,221",4,Mumbai
+280,OYO 22055 Dadar Residency,"INR1,493",4,Mumbai
+281,Hotel Pacific Residency,"INR1,965",4,Mumbai
+282,Hotel Golden Hyatt Inn,"INR1,410",4,Mumbai
+283,The Shelter Hotel and Resorts,"INR1,974",4,Mumbai
+284,Hotel Supreme,"INR1,614",4,Mumbai
+285,T24 Retro,"INR1,997",4,Mumbai
+286,OYO 19995 Hotel Grand Heritage,"INR1,528",4,Mumbai
+287,Club Emerald,"INR2,692",4,Mumbai
+288,HEBBARS HERITAGE HOME,INR705,4,Mumbai
+289,Mumbai House,"INR2,458",4,Mumbai
+290,Hotel Le Grande,"INR2,015",4,Mumbai
+291,Hotel Kurla Residency,"INR1,157",4,Mumbai
+292,Hotel Lords,"INR1,622",4,Mumbai
+293,Golden Chariot The Boutique Hotel,"INR1,316",4,Mumbai
+294,Hotel Executive Enclave,"INR4,002",4,Mumbai
+295,OYO 7481 Hotel Plaza,"INR1,573",4,Mumbai
+296,Padne Dormitory,INR174,4,Mumbai
+297,Hotel Aroma,"INR2,010",4,Mumbai
+298,PALMLANDS HOLIDAY HOME & RESORTS,"INR1,345",4,Mumbai
+299,Hotel Silver Inn,"INR2,563",4,Mumbai
+300,Grand Residency Hotel and Serviced Apartments,"INR4,049",4,Mumbai
+301,Hotel Godwin,"INR2,261",4,Mumbai
+302,Capital O 33476 Lavender Bough,"INR2,146",4,Mumbai
+303,Millano Dormitory Sakinaka,INR216,4,Mumbai
+304,Hotel Celeste,"INR1,882",4,Mumbai
+305,Hotel New Bengal,"INR1,617",4,Mumbai
+306,Marol Dormitory,INR312,4,Mumbai
+307,Citizen Hotel,"INR2,750",4,Mumbai
+308,HOTEL ZEE RESIDENCY,"INR1,052",4,Mumbai
+309,Golden Dormitory,INR470,4,Mumbai
+310,OYO 12693 Manori Resort,"INR1,502",4,Mumbai
+311,Apex Home,INR588,4,Mumbai
+312,Shivyog Guest House,INR564,4,Mumbai
+313,Theory9 Premium Serviced Apartments Bandra,"INR4,606",4,Mumbai
+314,Hotel Samraj,"INR1,964",4,Mumbai
+315,Hotel Parklane,"INR2,369",4,Mumbai
+316,Chateau Windsor,"INR3,500",4,Mumbai
+317,Mumbai Metro - The Executive Hotel,"INR1,818",4,Mumbai
+318,Hotel Ocean Residency,"INR1,452",4,Mumbai
+319,The Mirador,"INR3,250",4,Mumbai
+320,Hotel Aircraft International,"INR1,323",4,Mumbai
+321,Stay Villa Dormitory,INR490,4,Mumbai
+322,We Stay Hostel,INR273,4,Mumbai
+323,Starwoods Hotel & Resort,"INR2,840",4,Mumbai
+324,Hotel Ajanta,"INR3,241",4,Mumbai
+325,HOTEL AISTON INN,"INR1,336",4,Mumbai
+326,Hotel Ahlan International,"INR1,315",4,Mumbai
+327,Hotel Ripon Palace,"INR1,974",4,Mumbai
+328,Baba Homes,"INR1,298",4,Mumbai
+329,Hotel Solitaire,"INR3,466",4,Mumbai
+330,Dreams Service Apartment,"INR1,792",4,Mumbai
+331,Sea Palace Hotel,"INR2,266",4,Mumbai
+332,Dev shelter Goregaon,"INR4,136",4,Mumbai
+333,OYO 10650 Hotel Lotus Residency,"INR1,510",4,Mumbai
+334,Hotel Avon Ruby,"INR1,880",4,Mumbai
+335,Kings International,"INR2,477",4,Mumbai
+336,Gulf Hotel Colaba,"INR1,482",4,Mumbai
+337,Shahana II Guest House,INR135,4,Mumbai
+338,Service Apartment in Goregaon East,"INR2,883",4,Mumbai
+339,Hotel Imperial Palace,"INR1,496",4,Mumbai
+340,Metropolis Dormitory,INR300,4,Mumbai
+341,Hotel Landmark Fort,"INR2,745",4,Mumbai
+342,Eureka Dormitory,INR466,4,Mumbai
+343,SA Residency,"INR1,899",4,Mumbai
+344,Ocean Dormitory,INR311,4,Mumbai
+345,Backpac Stay,INR635,4,Mumbai
+346,Dev Shelter 6,"INR4,230",4,Mumbai
+347,Business Deluxe Dormitory,INR459,4,Mumbai
+348,Hotel Happy Home,"INR1,594",4,Mumbai
+349,Horn Ok Please Hostel,INR690,4,Mumbai
+350,SUPER DORMITORY,INR203,4,Mumbai
+351,Dragonfly Apartments Crystal-2 BHK Apartment,"INR3,290",4,Mumbai
+352,Nap Manor Hostels,INR604,4,Mumbai
+353,Kalina Dormitory (Male & Female),INR388,4,Mumbai
+354,ConnektHomes - Golden Rays Service Flat in Bandra Area,"INR5,640",4,Mumbai
+355,Orbit Home Luxury Service Apartments,"INR13,160",4,Mumbai
+356,SOGNO FARM,"INR4,179",4,Mumbai
+357,Gagal Home - MIDC Suite,"INR2,961",4,Mumbai
+358,Mango Dormitory,INR195,4,Mumbai
+359,Service Apartment in Borivali East,"INR2,256",4,Mumbai
+360,Gagal Home-Airport suites,"INR3,995",4,Mumbai
+361,Abza Dormitory,INR333,4,Mumbai
+362,Star Dormitory,INR326,4,Mumbai
+363,Gagal Home - BKC Suite,"INR2,970",4,Mumbai
+364,AIRPORT INN RESIDENCY,INR452,4,Mumbai
+365,Dragon Fly 2bhk Gokul apartment,"INR7,050",4,Mumbai
+366,Gagal Homes - Andheri Suite,"INR2,397",4,Mumbai
+367,Ocean Vista Villa,"INR22,000",4,Mumbai
+368,Aeka Hotel,"INR1,537",4,Mumbai
+369,BALA RESIDENCY,"INR2,068",4,Mumbai
+370,Dreamland,INR843,4,Mumbai
+371,OYO 3931 Hotel Hiramani,"INR1,425",4,Mumbai
+372,Hotel Liberty Plaza(Close to Phoenix Mall),"INR1,171",4,Mumbai
+373,Jewel Of Chembur,"INR3,102",4,Mumbai
+374,"Hotel Arma Court - Near US Embassy, BKC","INR1,159",4,Mumbai
+375,Sukh Hotel,"INR2,130",4,Mumbai
+376,Fortune Elite,INR754,4,Mumbai
+377,Hotel Guest Inn Hospitality-BKC,"INR1,454",4,Mumbai
+378,OYO 19590 Hotel Kamal,INR888,4,Mumbai
+379,OYO Flagship 18502 Sahar International,"INR1,228",4,Mumbai
+380,"Ganpati PG, Dormitory and Rooms",INR240,4,Mumbai
+381,Hotel Gold Coast,"INR1,538",4,Mumbai
+382,Hotel golden Galaxy,"INR1,222",4,Mumbai
+383,bandra dormitory,INR376,4,Mumbai
+384,Hotel Atlantic,"INR2,534",4,Mumbai
+385,City Guest House,"INR1,916",4,Mumbai
+386,Hotel Sun City - Saifee Hospital,"INR1,645",4,Mumbai
+387,Siesta Andheri.,"INR1,921",4,Mumbai
+388,Hotel Midland,"INR1,081",4,Mumbai
+389,Hotel Karishma,"INR1,640",4,Mumbai
+390,BKC DORMITORY,INR329,4,Mumbai
+391,Hotel Adore Palace,INR999,4,Mumbai
+392,Sagar Sangam Hotel,"INR1,461",4,Mumbai
+393,Hotel Khwaishh Presidency,"INR2,136",4,Mumbai
+394,Royal Dormitory ( Close to Mumbai International Airport ),INR188,4,Mumbai
+395,OYO 13660 Cliff Hanger,"INR1,748",4,Mumbai
+396,OYO Flagship 76261 Lake Bloom,INR810,4,Mumbai
+397,Hotel New India,INR579,4,Mumbai
+398,Hotel Residency Park,"INR1,093",4,Mumbai
+399,New Shree Niwas Lodging House,"INR1,383",4,Mumbai
+400,OYO Townhouse 339 Worli,"INR1,740",4,Mumbai
+401,Hotel Suba International,"INR2,600",4,Mumbai
+402,Landmark Asia Serviced Apartments,"INR2,820",4,Mumbai
+403,Hotel Neo Lodge Ghatkopar,"INR1,786",4,Mumbai
+404,Ganesh Palace,"INR1,662",4,Mumbai
+405,OYO 19841 Shivar Guest House,"INR1,311",4,Mumbai
+406,Hotel Crystal Luxury Inn,"INR1,623",4,Mumbai
+407,Hotel Balaji Residency,"INR1,476",4,Mumbai
+408,Hotel Satellite,INR973,4,Mumbai
+409,Capital O 65429 Hotel Merakee,"INR1,852",4,Mumbai
+410,Hotel Highway Inn,"INR1,131",4,Mumbai
+411,Hotel Crawford Inn,"INR1,704",4,Mumbai
+412,Golden Chariot Vasai Hotel And Spa,"INR2,820",4,Mumbai
+413,Hotel Beach Garden,"INR2,632",4,Mumbai
+414,Landmark Residency,"INR3,572",4,Mumbai
+415,Hotel Sapna,"INR1,512",4,Mumbai
+416,Hotel Landmark Annexe,"INR3,332",4,Mumbai
+417,Hotel Golden Residency,"INR1,025",4,Mumbai
+418,Sangam Guest House,INR856,4,Mumbai
+419,Hotel Evergreen,"INR1,140",4,Mumbai
+420,Social Hubz Dormitory,INR216,4,Mumbai
+421,Hotel Golden Sagar,"INR1,131",4,Mumbai
+422,Landmark Suites,"INR2,350",4,Mumbai
+423,Sea Green Hotel,"INR3,334",4,Mumbai
+424,Hotel Riva International,"INR1,634",4,Mumbai
+425,Awesome Dormitory,INR302,4,Mumbai
+426,Royal Inn Lodging,"INR1,004",4,Mumbai
+427,Hotel Airlines International,"INR1,758",4,Mumbai
+428,Aashiyana Dormitory,INR376,4,Mumbai
+429,Hotel Grandeur,"INR1,955",4,Mumbai
+430,Hotel Aarya International,"INR2,136",4,Mumbai
+431,Club One,"INR3,140",4,Mumbai
+432,The Caliph Hotel and Executive Suites,"INR2,679",4,Mumbai
+433,OYO 16446 Hotel Veera Residency,"INR1,866",3.5,Mumbai
+434,Real Rest House,INR376,3.5,Mumbai
+435,Saffron Suites,"INR2,306",3.5,Mumbai
+436,OYO 23259 Hotel Galaxy Inn,"INR1,143",3.5,Mumbai
+437,Bed Station Dormitory,INR376,3.5,Mumbai
+438,Zahra Guest House,INR346,3.5,Mumbai
+439,Hotel Shadab Palace,INR631,3.5,Mumbai
+440,"Hotel Sharda, Marine Lines","INR2,905",3.5,Mumbai
+441,Regency Hotel,"INR3,300",3.5,Mumbai
+442,Hotel Columbus,"INR1,537",3.5,Mumbai
+443,Abuzz,INR661,3.5,Mumbai
+444,Hotel Q Deck,"INR1,708",3.5,Mumbai
+445,Hotel Manas Residency,"INR1,727",3.5,Mumbai
+446,Hotel Janata,INR973,3.5,Mumbai
+447,HOTEL FLORA FOUNTAIN,"INR1,409",3.5,Mumbai
+448,Gateway inn,"INR1,316",3.5,Mumbai
+449,Hotel Royal Regency,"INR1,640",3.5,Mumbai
+450,Nice Guest House,INR420,3.5,Mumbai
+451,Yadgar Guest House,"INR2,562",3.5,Mumbai
+452,Hotel Diamond,"INR2,050",3.5,Mumbai
+453,OYO 4269 Hotel Sai Residency,"INR1,116",3.5,Mumbai
+454,OYO 22061 Hotel Khwaishh Presidency,"INR2,120",3.5,Mumbai
+455,UDUPI DORMITORY,INR380,3.5,Mumbai
+456,OYO 8181 Druv's Taj Palace,"INR1,090",3.5,Mumbai
+457,Hotel New Vasantashram,INR451,3.5,Mumbai
+458,Dormitory Point,INR255,3.5,Mumbai
+459,Hotel Golden Palace,"INR2,459",3.5,Mumbai
+460,OYO 4083 Hotel Alfa Grand,INR888,3.5,Mumbai
+461,Benazeer Hotel,"INR1,800",3.5,Mumbai
+462,OYO 19156 Hotel Greenforest,"INR1,251",3.5,Mumbai
+463,Hotel Broadway chembur,"INR1,902",3.5,Mumbai
+464,Metro Inn,INR661,3.5,Mumbai
+465,Hotel Golden Palms,"INR1,025",3.5,Mumbai
+466,Hotel Crystal,"INR2,726",3.5,Mumbai
+467,Central Line Guest House,"INR1,128",3.5,Mumbai
+468,OYO 19353 Relax Guest House,"INR1,048",3.5,Mumbai
+469,Hotel Al Moazin,"INR1,998",3.5,Mumbai
+470,Hotel City Point,"INR3,092",3.5,Mumbai
+471,Hotel Ashwin,"INR2,136",3.5,Mumbai
+472,Hotel Modern,"INR1,825",3.5,Mumbai
+473,HOTEL WESTERN INN,"INR1,880",3.5,Mumbai
+474,SRK HOTEL,"INR1,256",3.5,Mumbai
+475,Hotel Janata Residency,"INR1,128",3.5,Mumbai
+476,Hotel Sea Lord,"INR1,410",3.5,Mumbai
+477,Hotel Sapna Marine,"INR1,575",3.5,Mumbai
+478,Hotel Al Saudia,"INR1,143",3.5,Mumbai
+479,Hotel Manali,"INR2,562",3.5,Mumbai
+480,Hotel Avenue,"INR1,110",3.5,Mumbai
+481,Hotel Admiral,"INR1,503",3.5,Mumbai
+482,"Hotel Mumbai International, Airport","INR1,452",3.5,Mumbai
+483,Hotel Eqvity,"INR1,162",3.5,Mumbai
+484,Liberty Hotel,INR268,3.5,Mumbai
+485,Hotel Babas Residency,"INR1,235",3.5,Mumbai
+486,Airport Inn,INR778,3.5,Mumbai
+487,Hotel Benzy Palace,"INR1,481",3.5,Mumbai
+488,Hotel Platinum Inn,"INR1,454",3.5,Mumbai
+489,Hotel Kc Residency ( Closed to Mumbai International Airport),INR798,3.5,Mumbai
+490,Capital O 18981 Amber Palace,"INR1,875",3.5,Mumbai
+491,Juhu Hotel,"INR3,589",3.5,Mumbai
+492,OYO 9778 Aster Hotel-10 mins from Airport,"INR1,261",3.5,Mumbai
+493,Ellora Guest House,"INR1,367",3.5,Mumbai
+494,Capital O 44162 Royal Palms Hotel - Rose Collection,"INR1,312",3.5,Mumbai
+495,Hotel Paris Residency,"INR1,709",3.5,Mumbai
+496,Metro Inn Dormitory,INR282,3.5,Mumbai
+497,Royal Park Hotel Dockyard,"INR3,500",3.5,Mumbai
+498,Hotel Park Shilton,"INR1,793",3.5,Mumbai
+499,Hotel Adarsh Baug,"INR3,397",3.5,Mumbai
+500,Hotel Sunshine ( Free Airport transfers),"INR1,489",3.5,Mumbai
+501,Sunshine Backpackers Mumbai Airport,INR338,3.5,Mumbai
+502,Care Dormitory,INR191,3.5,Mumbai
+503,OYO 6312 Hotel Paris Residency,"INR1,857",3.5,Mumbai
+504,OYO 16470 Shalimar,"INR1,927",3.5,Mumbai
+505,OYO 17322 Hotel Prime Residency,"INR1,132",3.5,Mumbai
+506,Kamran Residency,"INR1,818",3.5,Mumbai
+507,Shabana,INR658,3.5,Mumbai
+508,Hotel Spring Inn,"INR2,075",3.5,Mumbai
+509,OYO 1784 Hotel Ascot Inn,"INR1,276",3.5,Mumbai
+510,Hotel Swapna International,"INR1,816",3.5,Mumbai
+511,OYO 789 Hotel Airport Annex,"INR2,000",3.5,Mumbai
+512,Decent Guest House (1km from US Embassy),"INR1,536",3.5,Mumbai
+513,Hotel Elvis Inn,"INR1,452",3.5,Mumbai
+514,Hotel Classic Residency,INR842,3.5,Mumbai
+515,OYO 3782 Hotel Adnoc Inn,"INR1,326",3.5,Mumbai
+516,Oxford Hotel,"INR1,035",3.5,Mumbai
+517,OYO 14056 Golden Arch,"INR1,274",3.5,Mumbai
+518,OYO 8544 Hotel Bently,"INR1,051",3.5,Mumbai
+519,Hotel Blue Bird Colaba,"INR1,473",3.5,Mumbai
+520,Om Residency,INR983,3.5,Mumbai
+521,OYO 328 Hotel Royal Annex,"INR1,188",3.5,Mumbai
+522,Hotel Delight Inn,"INR1,537",3.5,Mumbai
+523,Hotel Woodland,"INR1,537",3.5,Mumbai
+524,OYO 6428 K F Residency,"INR1,387",3.5,Mumbai
+525,OYO 18581 Hotel Blue Inn Residence,"INR1,890",3.5,Mumbai
+526,Hotel Hira Palace,INR816,3.5,Mumbai
+527,Hotel Paradise,"INR1,196",3.5,Mumbai
+528,OYO 7407 Hotel Blue Sea,"INR1,087",3.5,Mumbai
+529,HOTEL SAIM PALACE,INR595,3.5,Mumbai
+530,Pravasi Residency,"INR1,705",3.5,Mumbai
+531,Kalpataru bnb,"INR1,504",3.5,Mumbai
+532,Kalina Residency,INR816,3.5,Mumbai
+533,Hotel Red Palm,"INR1,140",3.5,Mumbai
+534,Hotel Aifa Residency,"INR1,090",3.5,Mumbai
+535,OYO 8363 Hotel Royal NS-10 mins from Airport,"INR1,335",3.5,Mumbai
+536,Hotel Hill View,INR864,3.5,Mumbai
+537,Hotel Terminus Square,"INR1,435",3.5,Mumbai
+538,Hotel Grand Skylight,"INR1,366",3.5,Mumbai
+539,HOTEL GOLDEN CITY,INR225,3.5,Mumbai
+540,OYO 27640 Hotel Blue Sapphire Residency,"INR2,089",3.5,Mumbai
+541,Shalimar Guest House,INR329,3.5,Mumbai
+542,Galaxy comforts,"INR1,222",3.5,Mumbai
+543,Jaya Mahal,"INR1,261",3.5,Mumbai
+544,Corporate Suite.,"INR2,256",3.5,Mumbai
+545,Hotel Bahri Residency,"INR1,514",3.5,Mumbai
+546,Hotel Flora Suites,"INR2,219",3.5,Mumbai
+547,OYO 12257 Hotel Sai Suites,"INR2,737",3.5,Mumbai
+548,Hotel Cliffton,"INR2,661",3.5,Mumbai
+549,OYO Townhouse 105 Khar West Station,"INR1,687",3.5,Mumbai
+550,HOTEL PANCHVATI RESIDENCY,"INR1,666",3.5,Mumbai
+551,Hotel Shalimar Palace Mumbai,"INR2,307",3.5,Mumbai
+552,Hotel Divine,INR632,3.5,Mumbai
+553,OYO 11706 Hotel Avion Park,"INR1,444",3.5,Mumbai
+554,Hotel Sweet Home,"INR2,194",3.5,Mumbai
+555,DELUXE RESIDENCY,"INR1,366",3.5,Mumbai
+556,Astha Home Kandivali Bungalow,"INR2,632",3.5,Mumbai
+557,Art Residency Hotel,"INR1,947",3.5,Mumbai
+558,BKC Residency,INR714,3.5,Mumbai
+559,Hotel Adlon,"INR1,156",3.5,Mumbai
